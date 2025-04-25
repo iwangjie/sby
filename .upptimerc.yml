@@ -16,9 +16,6 @@ sites:
     url: https://merchant.ycxlg.com/login
   - name: 身边云-麦的好H5
     url:  https://huibutie-h5.serviceshare.com/#/pages/user/login?redirectUrl=%252F
-  - name: 身边云-知识库（测试）
-    url:  http://wiki.youfupingtai.com
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -31,6 +28,6 @@ status-website:
   introMessage: 此页面是身边云在 Github 创建的检测探点之一
   navbar:
     - title: 实时状态
-      href: /
+      href: https://iwangjie.github.io/sby
     - title: 公司官网
       href: https://serviceshare.com
