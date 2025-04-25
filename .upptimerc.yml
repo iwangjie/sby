@@ -17,7 +17,7 @@ sites:
     url: https://merchant.ycxlg.com/login
   - name: 身边云-麦的好H5
     url:  https://huibutie-h5.serviceshare.com/#/pages/user/login?redirectUrl=%252F
-  - name: 身边云-Wiki网站
+  - name: 身边云-知识库（测试）
     url:  http://wiki.youfupingtai.com
 
 
