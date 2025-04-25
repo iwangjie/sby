@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1387,
-    "timeDay": 1387,
-    "timeWeek": 1387,
-    "timeMonth": 1387,
-    "timeYear": 1387,
+    "time": 1388,
+    "timeDay": 1388,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
     "dailyMinutesDown": {}
   },
   {
@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/manage.serviceshare.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1387,
-    "timeDay": 1387,
-    "timeWeek": 1387,
-    "timeMonth": 1387,
-    "timeYear": 1387,
-    "dailyMinutesDown": {}
+    "uptime": "99.25%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
+    "time": 1388,
+    "timeDay": 1388,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "身边云-风控运营后台",
@@ -41,17 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/risk.serviceshare.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1387,
-    "timeDay": 1387,
-    "timeWeek": 1387,
-    "timeMonth": 1387,
-    "timeYear": 1387,
-    "dailyMinutesDown": {}
+    "uptime": "98.99%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
+    "time": 1388,
+    "timeDay": 1388,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "身边云-官网",
@@ -59,17 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/serviceshare.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1387,
-    "timeDay": 1387,
-    "timeWeek": 1387,
-    "timeMonth": 1387,
-    "timeYear": 1387,
-    "dailyMinutesDown": {}
+    "uptime": "99.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
+    "time": 1388,
+    "timeDay": 1388,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "易畅行-运营后台",
@@ -77,17 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/manage.ycxlg.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1387,
-    "timeDay": 1387,
-    "timeWeek": 1387,
-    "timeMonth": 1387,
-    "timeYear": 1387,
-    "dailyMinutesDown": {}
+    "uptime": "99.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
+    "time": 1388,
+    "timeDay": 1388,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "易畅行-商户前台",
@@ -95,17 +103,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/merchant.ycxlg.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1387,
-    "timeDay": 1387,
-    "timeWeek": 1387,
-    "timeMonth": 1387,
-    "timeYear": 1387,
-    "dailyMinutesDown": {}
+    "uptime": "98.75%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "98.75%",
+    "time": 1388,
+    "timeDay": 1388,
+    "timeWeek": 1388,
+    "timeMonth": 1388,
+    "timeYear": 1388,
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "身边云-麦的好H5",
@@ -118,11 +128,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1362,
-    "timeDay": 1362,
-    "timeWeek": 1362,
-    "timeMonth": 1362,
-    "timeYear": 1362,
+    "time": 1279,
+    "timeDay": 1279,
+    "timeWeek": 1279,
+    "timeMonth": 1279,
+    "timeYear": 1279,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "身边云-Wiki网站",
+    "url": "http://wiki.youfupingtai.com",
+    "icon": "https://icons.duckduckgo.com/ip3/wiki.youfupingtai.com.ico",
+    "slug": "wiki",
+    "status": "down",
+    "uptime": "35.86%",
+    "uptimeDay": "35.86%",
+    "uptimeWeek": "35.86%",
+    "uptimeMonth": "35.86%",
+    "uptimeYear": "35.86%",
+    "time": 1947,
+    "timeDay": 1947,
+    "timeWeek": 1947,
+    "timeMonth": 1947,
+    "timeYear": 1947,
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   }
 ]
