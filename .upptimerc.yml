@@ -25,14 +25,11 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /sby
   logoUrl: https://www.serviceshare.com/images/logo.png
-  name: Upptime
+  name: 身边云探针
   introTitle: "身边云官方Github探测点"
   introMessage: 此页面是身边云在 Github 创建的检测探点之一
   navbar:
-    - title: Status
+    - title: 实时状态
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: 公司官网
+      href: https://serviceshare.com
