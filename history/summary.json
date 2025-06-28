@@ -6,16 +6,18 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1370,
-    "timeDay": 1289,
+    "timeDay": 1291,
     "timeWeek": 1315,
     "timeMonth": 1349,
     "timeYear": 1370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 2
+    }
   },
   {
     "name": "身边云运营后台",
@@ -24,16 +26,18 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1370,
-    "timeDay": 1289,
+    "timeDay": 1291,
     "timeWeek": 1315,
     "timeMonth": 1349,
     "timeYear": 1370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 3
+    }
   },
   {
     "name": "身边云-风控运营后台",
@@ -42,16 +46,18 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1370,
-    "timeDay": 1289,
+    "timeDay": 1291,
     "timeWeek": 1315,
     "timeMonth": 1349,
     "timeYear": 1370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 3
+    }
   },
   {
     "name": "身边云-官网",
@@ -60,16 +66,18 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1370,
-    "timeDay": 1289,
+    "timeDay": 1291,
     "timeWeek": 1315,
     "timeMonth": 1349,
     "timeYear": 1370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 3
+    }
   },
   {
     "name": "易畅行-运营后台",
@@ -78,16 +86,18 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1370,
-    "timeDay": 1289,
+    "timeDay": 1291,
     "timeWeek": 1315,
     "timeMonth": 1349,
     "timeYear": 1370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 3
+    }
   },
   {
     "name": "易畅行-商户前台",
@@ -96,33 +106,37 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1370,
-    "timeDay": 1289,
+    "timeDay": 1291,
     "timeWeek": 1315,
     "timeMonth": 1349,
     "timeYear": 1370,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 4
+    }
   },
   {
     "name": "身边云-麦的好H5",
     "url": "https://huibutie-h5.serviceshare.com/#/pages/user/login?redirectUrl=%252F",
     "icon": "https://icons.duckduckgo.com/ip3/huibutie-h5.serviceshare.com.ico",
     "slug": "h5",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1248,
     "timeDay": 1397,
     "timeWeek": 1324,
     "timeMonth": 1257,
     "timeYear": 1248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 4
+    }
   }
 ]
