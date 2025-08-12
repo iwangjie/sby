@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/merchant.serviceshare.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1363,
-    "timeDay": 1291,
-    "timeWeek": 1345,
+    "timeDay": 1295,
+    "timeWeek": 1346,
     "timeMonth": 1357,
     "timeYear": 1363,
-    "dailyMinutesDown": {
-      "2025-06-28": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "身边云运营后台",
@@ -31,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1363,
-    "timeDay": 1291,
-    "timeWeek": 1345,
+    "timeDay": 1295,
+    "timeWeek": 1346,
     "timeMonth": 1357,
     "timeYear": 1363,
     "dailyMinutesDown": {
@@ -51,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1363,
-    "timeDay": 1291,
-    "timeWeek": 1345,
+    "timeDay": 1295,
+    "timeWeek": 1346,
     "timeMonth": 1357,
     "timeYear": 1363,
     "dailyMinutesDown": {
@@ -65,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/serviceshare.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1363,
-    "timeDay": 1291,
-    "timeWeek": 1345,
+    "timeDay": 1295,
+    "timeWeek": 1346,
     "timeMonth": 1357,
     "timeYear": 1363,
-    "dailyMinutesDown": {
-      "2025-06-28": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "易畅行-运营后台",
@@ -85,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/manage.ycxlg.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1363,
-    "timeDay": 1291,
-    "timeWeek": 1345,
+    "timeDay": 1295,
+    "timeWeek": 1346,
     "timeMonth": 1357,
     "timeYear": 1363,
-    "dailyMinutesDown": {
-      "2025-06-28": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "易畅行-商户前台",
@@ -105,19 +99,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/merchant.ycxlg.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1363,
-    "timeDay": 1291,
-    "timeWeek": 1345,
+    "timeDay": 1295,
+    "timeWeek": 1346,
     "timeMonth": 1357,
     "timeYear": 1363,
-    "dailyMinutesDown": {
-      "2025-06-28": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "身边云-麦的好H5",
@@ -125,18 +117,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/huibutie-h5.serviceshare.com.ico",
     "slug": "h5",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 1269,
     "timeDay": 1019,
     "timeWeek": 1251,
     "timeMonth": 1288,
     "timeYear": 1269,
-    "dailyMinutesDown": {
-      "2025-06-28": 17
-    }
+    "dailyMinutesDown": {}
   }
 ]
