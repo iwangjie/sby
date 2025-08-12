@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1363,
-    "timeDay": 1295,
+    "time": 1362,
+    "timeDay": 1293,
     "timeWeek": 1346,
     "timeMonth": 1357,
-    "timeYear": 1363,
+    "timeYear": 1362,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/manage.serviceshare.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1363,
-    "timeDay": 1295,
+    "uptimeYear": "100.00%",
+    "time": 1362,
+    "timeDay": 1293,
     "timeWeek": 1346,
     "timeMonth": 1357,
-    "timeYear": 1363,
-    "dailyMinutesDown": {
-      "2025-06-28": 17
-    }
+    "timeYear": 1362,
+    "dailyMinutesDown": {}
   },
   {
     "name": "身边云-风控运营后台",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/risk.serviceshare.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 1363,
-    "timeDay": 1295,
+    "uptimeYear": "100.00%",
+    "time": 1362,
+    "timeDay": 1293,
     "timeWeek": 1346,
     "timeMonth": 1357,
-    "timeYear": 1363,
-    "dailyMinutesDown": {
-      "2025-06-28": 17
-    }
+    "timeYear": 1362,
+    "dailyMinutesDown": {}
   },
   {
     "name": "身边云-官网",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1363,
-    "timeDay": 1295,
+    "time": 1362,
+    "timeDay": 1293,
     "timeWeek": 1346,
     "timeMonth": 1357,
-    "timeYear": 1363,
+    "timeYear": 1362,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1363,
-    "timeDay": 1295,
+    "time": 1362,
+    "timeDay": 1293,
     "timeWeek": 1346,
     "timeMonth": 1357,
-    "timeYear": 1363,
+    "timeYear": 1362,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1363,
-    "timeDay": 1295,
+    "time": 1362,
+    "timeDay": 1293,
     "timeWeek": 1346,
     "timeMonth": 1357,
-    "timeYear": 1363,
+    "timeYear": 1362,
     "dailyMinutesDown": {}
   },
   {
