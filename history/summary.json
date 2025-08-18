@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1363,
-    "timeDay": 1350,
-    "timeWeek": 1356,
-    "timeMonth": 1361,
+    "timeDay": 1352,
+    "timeWeek": 1357,
+    "timeMonth": 1359,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-06-28": 17
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1363,
-    "timeDay": 1350,
-    "timeWeek": 1356,
-    "timeMonth": 1361,
+    "timeDay": 1352,
+    "timeWeek": 1357,
+    "timeMonth": 1359,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-06-28": 17
@@ -52,8 +52,8 @@
     "uptimeYear": "99.99%",
     "time": 1363,
     "timeDay": 1350,
-    "timeWeek": 1356,
-    "timeMonth": 1361,
+    "timeWeek": 1357,
+    "timeMonth": 1359,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-06-28": 17
@@ -65,17 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/serviceshare.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 1363,
     "timeDay": 1350,
-    "timeWeek": 1356,
-    "timeMonth": 1361,
+    "timeWeek": 1357,
+    "timeMonth": 1359,
     "timeYear": 1363,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-28": 17
+    }
   },
   {
     "name": "易畅行-运营后台",
@@ -90,8 +92,8 @@
     "uptimeYear": "99.99%",
     "time": 1363,
     "timeDay": 1350,
-    "timeWeek": 1356,
-    "timeMonth": 1361,
+    "timeWeek": 1357,
+    "timeMonth": 1359,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-06-28": 17
@@ -110,8 +112,8 @@
     "uptimeYear": "99.99%",
     "time": 1363,
     "timeDay": 1350,
-    "timeWeek": 1356,
-    "timeMonth": 1361,
+    "timeWeek": 1357,
+    "timeMonth": 1359,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-06-28": 17
