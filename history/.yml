@@ -1,7 +1,7 @@
-url: https://merchant.serviceshare.com/login
+url: https://manage.serviceshare.com/login?redirect=%2F
 status: up
 code: 200
-responseTime: 993
-lastUpdated: 2025-09-12T23:10:24.601Z
+responseTime: 847
+lastUpdated: 2025-09-12T23:10:25.631Z
 startTime: 2025-04-25T06:42:19.671Z
 generator: Upptime <https://github.com/upptime/upptime>
