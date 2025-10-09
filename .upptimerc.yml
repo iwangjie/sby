@@ -4,14 +4,6 @@ repo: sby # The name of this repository
 sites:
   - name: 身边云-商户前台
     url: https://merchant.serviceshare.com/login
-  - name: 身边云运营后台
-    url: https://manage.serviceshare.com/login?redirect=%2F
-  - name: 身边云-风控运营后台
-    url: https://risk.serviceshare.com/
-  - name: 身边云-官网
-    url: hhttps://serviceshare.com/
-  - name: 易畅行-运营后台
-    url: https://manage.ycxlg.com/login?redirect=%2F
   - name: 易畅行-商户前台
     url: https://merchant.ycxlg.com/login
   - name: 身边云-麦的好H5
